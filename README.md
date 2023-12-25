@@ -1,8 +1,8 @@
 # DockerConfigHandler
 
-DockerConfigHandler control container environment.
+DockerConfigHandler controls container environment.
 
-it has information of group and container information. so deploy container and get container or docker netowkr information from docker engine.
+it has group and container information. so deploys container and getㄴ container or docker netowkr information from docker engine.
 Docker engine is connected with DockerConfigHandler via DockerAPISender object
 
 The diagram below is the class diagram of DockerConfigHandler
